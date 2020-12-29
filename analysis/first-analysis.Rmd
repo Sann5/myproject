@@ -1,0 +1,15 @@
+---
+title: "first-analysis"
+author: "Santiago Castro Dau"
+date: "2020-12-29"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+print("Hello World!")
+```
+
